@@ -2,6 +2,8 @@
 
 Meu primeiro sistema em C#. É um simples CRUD que consiste em adicionar as notas de alunos, além de poder modificá-las, excluí-las e consultá-las.
 
+![image](https://github.com/user-attachments/assets/b4b35d3a-a552-47b8-84f6-db6c8498b259)
+
 # Funcionalidades acerca do código
 
 ### Cadastrar
